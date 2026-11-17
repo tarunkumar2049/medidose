@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <div className="flex flex-row bg-white/80 backdrop-blur-xl w-full  p-7 justify-between fixed top-0 z-50">
       <Link to="/">
-        <span className="text-2xl font-bold">ITdose</span>
+        <span className="text-2xl font-bold">MediDose</span>
       </Link>
       <span className="md:flex hidden gap-8 text-gray-600 ">
         <Link className="hover:text-orange-500" to="/Modules">
