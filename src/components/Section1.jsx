@@ -8,7 +8,7 @@ export default function Section1() {
           ENTERPRISE READY
         </p>
         <span>
-          <h1 className="font-bold text-5xl">ITdose: Next-Gen</h1>
+          <h1 className="font-bold text-5xl">MediDose: Next-Gen</h1>
           <h1 className="font-bold text-5xl text-orange-500">
             Hospital Intelligence
           </h1>

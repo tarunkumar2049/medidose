@@ -18,7 +18,7 @@ export default function Section6() {
             <IoStarSharp />
           </span>
           <p className="italic text-gray-700">
-            "ITdose has completely transformed our OPD efficiency. Waiting times
+            "MediDose has completely transformed our OPD efficiency. Waiting times
             are down by 40% and our doctors have all patient history at their
             fingertips."
           </p>

@@ -22,7 +22,7 @@ export default function Section5() {
             className={`${val == 1 ? "flex " : "hidden"} flex-col gap-2 my-5 lg:w-230`}
           >
             <p>
-              ITdose architecture is built for the enterprise, supporting
+              MediDose architecture is built for the enterprise, supporting
               everything from single clinics to multi-national hospital chains
               with thousands of concurrent users. Our distributed cloud-native
               infrastructure ensures that as your patient volume grows, your
@@ -33,7 +33,7 @@ export default function Section5() {
               Pharmacy or Lab to scale independently during peak hours, ensuring
               critical clinical operations never experience latency. This level
               of technical robustness is why premier healthcare institutions
-              choose ITdose for their digital foundation.
+              choose MediDose for their digital foundation.
             </p>
           </div>
         </div>
@@ -50,7 +50,7 @@ export default function Section5() {
             className={`${val == 2 ? "flex " : "hidden"} flex-col my-5 lg:w-230`}
           >
             <p>
-              Patient data is sacred. ITdose implements military-grade
+              Patient data is sacred. MediDose implements military-grade
               encryption for data at rest and in transit. We are fully HIPAA and
               GDPR compliant, with granular role-based access controls that
               ensure only authorized personnel can view sensitive medical
@@ -73,7 +73,7 @@ export default function Section5() {
           >
             <p>
               Operating across multiple jurisdictions requires a system that
-              understands local regulations. ITdose stays ahead of the curve
+              understands local regulations. MediDose stays ahead of the curve
               with pre-configured compliance engines for insurance (HL7, FHIR),
               tax laws, and healthcare reporting requirements across 20+
               countries. We handle the complexity of regulations so you can

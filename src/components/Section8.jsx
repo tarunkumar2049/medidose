@@ -55,7 +55,7 @@ export default function Sectoin8() {
                 <h1 className="text-sm font-semibold text-gray-600">
                   EMAIL US
                 </h1>
-                <p className="font-bold">hello@itdose.com</p>
+                <p className="font-bold">hello@MediDose.com</p>
               </span>
             </span>
           </div>
